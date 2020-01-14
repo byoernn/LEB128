@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Björn Nast</Authors>
+    <Company />
+    <PackageProjectUrl>https://github.com/byoernn/LEB128</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/byoernn/LEB128</RepositoryUrl>
+    <NeutralLanguage />
+    <Description>A easy and free to use LEB128 Implementation for .Net</Description>
+  </PropertyGroup>
+
+</Project>
